@@ -1,0 +1,151 @@
+#body{
+    background: #100a1c;
+  background-image:
+    radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
+    radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+  background-attachment: fixed;
+  color: #6cacc5;
+}
+#header{
+    text-align: center;
+    color: radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
+    radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+    border: 15px;
+    padding: 15px;
+}
+
+#main{
+    align-content: center;
+    text-align: center;
+}
+
+#button0{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 110px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button1{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button2{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button3{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button4{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button5{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button6{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button7{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button8{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
+#button9{
+    background-color:#800080 ;
+    border: 5px;
+    border-radius: 20px;
+    color: aquamarine;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: 5px;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    
+}
